@@ -27,25 +27,20 @@ Welcome to my GitHub! I'm a **Computing Systems student, developer, and tech ent
 
 ## 📂 Projects & Showcase
 
-### 💡 Cybersecurity Awareness Project
-[![Cybersecurity Project](https://img.shields.io/badge/Project-Cybersecurity-blue?style=for-the-badge)](https://github.com/asbinthapa99)  
-- Small online project teaching digital safety  
-- Tools used: Python, HTML, CSS, JavaScript  
-- Purpose: Raise awareness about online threats
 
 ### 🌐 Personal Web App
-[![Web App Project](https://img.shields.io/badge/Project-Web_App-green?style=for-the-badge)](https://github.com/asbinthapa99)  
+[![Web App Project](https://img.shields.io/badge/Project-Web_App-green?style=for-the-badge)]([(https://asbinthapa.info.np/))  
 - Built a personal portfolio and interactive web apps  
 - Tools used: HTML, CSS, JavaScript  
 - Purpose: Showcase coding skills and projects
 
-### 📢 Digital Marketing Campaign
-[![Marketing Project](https://img.shields.io/badge/Project-Digital_Marketing-orange?style=for-the-badge)](https://github.com/asbinthapa99)  
+### 📢 Farm website 
+[![Marketing Project](https://img.shields.io/badge/Project-Digital_Marketing-orange?style=for-the-badge)](https://janukaagricultureandanimalfarm.com.np/)  
 - Created online awareness campaigns for social causes  
 - Tools used: Content creation, social media strategy  
 - Purpose: Share knowledge and increase digital presence
 
-*(Replace links with your actual project repositories for best results)*
+
 
 ---
 
@@ -73,3 +68,6 @@ Welcome to my GitHub! I'm a **Computing Systems student, developer, and tech ent
 - Always learning and experimenting with new **tech projects**  
 
 ---
+<!-- Google Site Verification -->
+<meta name="google-site-verification" content="D6t6VD3Zt7wBQcaY" />
+
