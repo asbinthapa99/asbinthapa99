@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a **Computing Systems student, developer, and tech ent
 - 🌱 Passionate about **self-improvement, fitness, and personal growth**  
 - 🌍 Building **projects to share knowledge and make technology accessible**
 
-> SEO Keywords: Asbin Thapa, Computing Systems student, web developer, cybersecurity, digital marketing, content creator, tech projects, GitHub portfolio
+> SEO Keywords: Asbin Thapa, Asbin thapa info, asbin thapa london, asbin chetrri , Computing Systems student, web developer, cybersecurity, digital marketing, content creator, tech projects, GitHub portfolio
 
 ---
 
@@ -25,12 +25,27 @@ Welcome to my GitHub! I'm a **Computing Systems student, developer, and tech ent
 
 ---
 
-## 📂 Projects & Highlights
-- 💡 **Cybersecurity Awareness Projects:** Teaching digital safety online  
-- 🌐 **Web Development Projects:** Personal portfolios, web apps, university assignments  
-- 📢 **Digital Marketing & Content Creation:** Online awareness campaigns  
+## 📂 Projects & Showcase
 
-> Add repository links here to make them clickable for visitors and improve SEO.  
+### 💡 Cybersecurity Awareness Project
+[![Cybersecurity Project](https://img.shields.io/badge/Project-Cybersecurity-blue?style=for-the-badge)](https://github.com/asbinthapa99)  
+- Small online project teaching digital safety  
+- Tools used: Python, HTML, CSS, JavaScript  
+- Purpose: Raise awareness about online threats
+
+### 🌐 Personal Web App
+[![Web App Project](https://img.shields.io/badge/Project-Web_App-green?style=for-the-badge)](https://github.com/asbinthapa99)  
+- Built a personal portfolio and interactive web apps  
+- Tools used: HTML, CSS, JavaScript  
+- Purpose: Showcase coding skills and projects
+
+### 📢 Digital Marketing Campaign
+[![Marketing Project](https://img.shields.io/badge/Project-Digital_Marketing-orange?style=for-the-badge)](https://github.com/asbinthapa99)  
+- Created online awareness campaigns for social causes  
+- Tools used: Content creation, social media strategy  
+- Purpose: Share knowledge and increase digital presence
+
+*(Replace links with your actual project repositories for best results)*
 
 ---
 
@@ -43,7 +58,7 @@ Welcome to my GitHub! I'm a **Computing Systems student, developer, and tech ent
 ## 🔗 Connect With Me
 [![Website](https://img.shields.io/badge/Website-asbinthapa.info.np-blue?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://asbinthapa.info.np)  
 [![Email](https://img.shields.io/badge/Email-asbinthapa27@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:asbinthapa27@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AsbinThapa-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/asbinthapa/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AsbinThapa-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/asbinthapa/)
 
 ---
 
@@ -53,19 +68,8 @@ Welcome to my GitHub! I'm a **Computing Systems student, developer, and tech ent
 ---
 
 ## ⚡ Fun Facts
-- I play football, love coding, and enjoy exploring **new technology trends**  
+- I play football, love coding, and explore **new technology trends**  
 - Focused on **self-transformation, habit improvement, and personal growth**  
 - Always learning and experimenting with new **tech projects**  
 
 ---
-
-> **Tips for SEO & Google Visibility**:
-> - Full name mentioned multiple times  
-> - Relevant keywords in bio and projects section  
-> - External links (website, LinkedIn, email)  
-> - Interactive badges and stats make profile trustworthy  
-> - Visitor counter increases engagement signal  
-> - Structured headings improve indexing  
-
----
-
