@@ -3,7 +3,7 @@
 <img src="https://asbinthapa.info.np/img/IMG_1069.jpg" alt="Asbin Thapa" width="200" style="border-radius: 50%; border: 4px solid #00D9FF; box-shadow: 0 0 20px rgba(0, 217, 255, 0.5);" />
 
 # 👋 Hi, I'm Asbin Thapa
-
+<meta name="google-site-verification" content="D6t6VD3Zt7wBQcaY9PaqfuI3QInEQd39oKV0p1_suTg" />
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Computing+Systems+Student;Web+Developer;Cybersecurity+Enthusiast;Digital+Marketing+Expert;Content+Creator;Problem+Solver" alt="Typing SVG" />
 
 [![Website](https://img.shields.io/badge/🌐_Website-asbinthapa.info.np-00D9FF?style=for-the-badge)](https://asbinthapa.info.np/)
