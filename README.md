@@ -22,8 +22,6 @@
 const asbinThapa = {
     location: "London, UK 🇬🇧 (from Nepal 🇳🇵)",
     education: "Computing Systems @ University",
-    role: "Cyber Security Expert & Full Stack Developer",
-    
     expertise: {
         webDevelopment: ["HTML", "CSS", "JavaScript", "Python"],
         security: ["Cybersecurity", "Digital Safety", "System Integrity"],
@@ -34,22 +32,16 @@ const asbinThapa = {
     currentFocus: [
         "🔒 Building cybersecurity awareness projects",
         "🌐 Developing web applications",
-        "💪 Personal growth and fitness",
-        "📚 Continuous learning and self-improvement"
     ],
     
     passions: [
         "Making technology accessible",
         "Sharing knowledge",
-        "Digital security awareness",
-        "Self-transformation"
     ],
     
     funFacts: [
         "⚽ Football enthusiast",
         "💻 Always experimenting with new tech",
-        "🎯 Focused on habit improvement",
-        "🌱 Believer in personal growth"
     ]
 };
 ```
@@ -139,10 +131,8 @@ const asbinThapa = {
 **Professional business website for agricultural services**
 - 📊 Digital marketing integration
 - 🎯 SEO optimized
-- 📞 Contact & service showcase
 - 🔧 Built with: HTML, CSS, JavaScript, SCSS
 
----
 
 ### 🔒 Cybersecurity Awareness Projects
 [![Security](https://img.shields.io/badge/🛡️_Security_Projects-In_Development-FF6B6B?style=for-the-badge)]()
@@ -150,7 +140,6 @@ const asbinThapa = {
 **Educational content and tools for digital safety**
 - 📚 Security awareness campaigns
 - 🎓 Educational resources
-- 🔐 Best practices guides
 - 🌐 Online safety tools
 
 </div>
@@ -198,7 +187,6 @@ const asbinThapa = {
 - Digital safety education
 - System integrity focus
 - Vulnerability assessment
-- Best practices implementation
 
 </td>
 <td width="50%">
@@ -207,7 +195,6 @@ const asbinThapa = {
 - Full-stack web applications
 - Responsive design
 - SEO optimization
-- Performance tuning
 - User experience focus
 
 </td>
@@ -220,46 +207,18 @@ const asbinThapa = {
 - SEO & SEM
 - Social media marketing
 - Brand awareness
-- Campaign management
 
 </td>
 <td width="50%">
 
 ### 🎨 Content Creation
 - Technical writing
-- Video content
-- Educational materials
 - Social media content
-- Community engagement
+
 
 </td>
 </tr>
 </table>
-
----
-
-## 🎯 Current Focus
-
-```mermaid
-mindmap
-  root((Asbin Thapa))
-    Education
-      Computing Systems
-      Cybersecurity
-      Continuous Learning
-    Development
-      Web Projects
-      Security Tools
-      Open Source
-    Personal Growth
-      Fitness
-      Self Improvement
-      Habit Building
-    Community
-      Knowledge Sharing
-      Content Creation
-      Mentoring
-```
 
 ---
 
@@ -346,9 +305,6 @@ class AsbinThapa:
         return [
             "Advancing cybersecurity skills",
             "Building web applications",
-            "Digital marketing mastery",
-            "Personal development",
-            "Community contribution"
         ]
     
     def life_motto(self):
@@ -367,9 +323,7 @@ print(me.life_motto())
 ### 💬 Let's Collaborate!
 
 I'm always interested in:
-- 🤝 Collaboration on interesting projects
 - 💼 Freelance opportunities
-- 🎓 Knowledge sharing and mentoring
 - 🔒 Cybersecurity discussions
 - 🌐 Web development projects
 
@@ -381,7 +335,7 @@ I'm always interested in:
 
 ---
 
-## 🌟 Support My Work
+## 🌟 Support My Work 
 
 <div align="center">
 
@@ -394,15 +348,16 @@ If you find my projects helpful or inspiring:
 
 ---
 
-## 📊 Visitor Stats
+play game 
 
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/asbinthapa99/count.svg)
+[![Play Snake](https://img.shields.io/badge/🎮_Play_Snake_Game-00D9FF?style=for-the-badge)](https://asbinthapa99.github.io/Snake-game-/)
 
-**Thank you for visiting my profile! 🙏**
 
-![Snake animation](https://github.com/asbinthapa99/asbinthapa99/blob/output/github-contribution-grid-snake.svg)
+Thank you for visiting my profile!
+
+![Snake animation](https://github.com/asbinthapa99/gg/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -410,15 +365,15 @@ If you find my projects helpful or inspiring:
 
 <div align="center">
 
-### 💝 Quote of the Day
+###  Quote of the Day
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Finding+errors+in+life’s+script)
 
----
 
-**Made with ❤️ by Asbin Thapa**
 
-*Last Updated: September 2025*
+
+
+
 
 ![Bottom Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
