@@ -18,33 +18,6 @@
 
 ## 🌟 About Me
 
-```javascript
-const asbinThapa = {
-    location: "London, UK 🇬🇧 (from Nepal 🇳🇵)",
-    education: "Computing Systems @ University",
-    expertise: {
-        webDevelopment: ["HTML", "CSS", "JavaScript", "Python"],
-        security: ["Cybersecurity", "Digital Safety", "System Integrity"],
-        marketing: ["Digital Marketing", "Content Creation", "SEO"],
-        design: ["UI/UX", "Responsive Design", "User Experience"]
-    },
-    
-    currentFocus: [
-        "🔒 Building cybersecurity awareness projects",
-        "🌐 Developing web applications",
-    ],
-    
-    passions: [
-        "Making technology accessible",
-        "Sharing knowledge",
-    ],
-    
-    funFacts: [
-        "⚽ Football enthusiast",
-        "💻 Always experimenting with new tech",
-    ]
-};
-```
 
 > **SEO Keywords:** Asbin Thapa, Asbin thapa info, asbin thapa london, asbin chetrri, Computing Systems student, web developer, cybersecurity, digital marketing, content creator, tech projects, GitHub portfolio
 
