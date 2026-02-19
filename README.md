@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://asbinthapa.info.np/img/IMG_1069.jpg" alt="Asbin Thapa" width="200" style="border-radius: 50%; border: 4px solid #00D9FF; box-shadow: 0 0 20px rgba(0, 217, 255, 0.5);" />
 
 # 👋 Hi, I'm Asbin Thapa
 <meta name="google-site-verification" content="D6t6VD3Zt7wBQcaY9PaqfuI3QInEQd39oKV0p1_suTg" />
@@ -139,13 +138,6 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=asbinthapa99&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
 
 ---
 
@@ -217,15 +209,7 @@
 
 ---
 
-## 📈 Contribution Activity
 
-<div align="center">
-
-![GitHub Activity](https://github-readme-stats.vercel.app/api/wakatime?username=asbinthapa99&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
-
-</div>
-
----
 
 ## ⚡ Fun Facts About Me
 
