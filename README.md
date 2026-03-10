@@ -34,21 +34,6 @@
 - 🇳🇵 Originally from **Nepal**
 - 🔐 Specializing in **Cybersecurity**
 
-</td>
-<td width="50%">
-
-### 💡 Interests
-- 🔒 **Digital Security & Privacy**
-- 🌐 **Web Technologies**
-- 📊 **Digital Marketing & SEO**
-- 🎨 **UI/UX Design**
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🛠️ Technical Skills
 
 <div align="center">
