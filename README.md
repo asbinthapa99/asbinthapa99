@@ -1,8 +1,7 @@
 <div align="center">
 
-
 # 👋 Hi, I'm Asbin Thapa
-<meta name="google-site-verification" content="D6t6VD3Zt7wBQcaY9PaqfuI3QInEQd39oKV0p1_suTg" />
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Computing+Systems+Student;Web+Developer;Cybersecurity+Enthusiast;Digital+Marketing+Expert;Content+Creator;Problem+Solver" alt="Typing SVG" />
 
 [![Website](https://img.shields.io/badge/🌐_Website-asbinthapa.info.np-00D9FF?style=for-the-badge)](https://asbinthapa.info.np/)
@@ -15,24 +14,14 @@
 
 ---
 
-## 🌟 About Me
-
-
-> **SEO Keywords:** Asbin Thapa, Asbin thapa info, asbin thapa london, asbin chetrri, Computing Systems student, web developer, cybersecurity, digital marketing, content creator, tech projects, GitHub portfolio
-
----
-
 ## 🎓 Education & Background
 
-<table>
-<tr>
-<td width="50%">
-
-### 🎯 Current
 - 📚 **Computing Systems** Student
 - 🌍 Based in **London, UK**
 - 🇳🇵 Originally from **Nepal**
 - 🔐 Specializing in **Cybersecurity**
+
+---
 
 ## 🛠️ Technical Skills
 
@@ -67,70 +56,50 @@
 
 ---
 
+<table width="100%" border="0" cellspacing="0" cellpadding="12">
+<tr>
+<td width="55%" valign="top">
+
 ## 📂 Featured Projects
 
-<div align="center">
-
 ### 🌐 Personal Portfolio & Web App
+
 [![Web App](https://img.shields.io/badge/🚀_Live_Demo-asbinthapa.info.np-00D9FF?style=for-the-badge)](https://asbinthapa.info.np/)
 
 **Interactive personal portfolio showcasing projects and skills**
+
 - 🎨 Modern, responsive design
 - ⚡ Fast performance & optimized
 - 📱 Mobile-first approach
 - 🔧 Built with: HTML, CSS, JavaScript
 
----
+<br>
 
 ### 🌾 Januka Agriculture & Animal Farm
+
 [![Farm Website](https://img.shields.io/badge/🌱_Visit_Site-janukaagricultureandanimalfarm.com.np-4CAF50?style=for-the-badge)](https://janukaagricultureandanimalfarm.com.np/)
 
 **Professional business website for agricultural services**
+
 - 📊 Digital marketing integration
 - 🎯 SEO optimized
 - 🔧 Built with: HTML, CSS, JavaScript, SCSS
 
+<br>
 
 ### 🔒 Cybersecurity Awareness Projects
+
 [![Security](https://img.shields.io/badge/🛡️_Security_Projects-In_Development-FF6B6B?style=for-the-badge)]()
 
 **Educational content and tools for digital safety**
+
 - 📚 Security awareness campaigns
 - 🎓 Educational resources
 - 🌐 Online safety tools
 
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asbinthapa99&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asbinthapa99&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asbinthapa99&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=asbinthapa99&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)
-
-</div>
-
----
-
-
----
+<br>
 
 ## 💼 Professional Experience
-
-<table>
-<tr>
-<td width="50%">
 
 ### 🔒 Cybersecurity
 - Security awareness campaigns
@@ -138,19 +107,11 @@
 - System integrity focus
 - Vulnerability assessment
 
-</td>
-<td width="50%">
-
 ### 🌐 Web Development
 - Full-stack web applications
 - Responsive design
 - SEO optimization
 - User experience focus
-
-</td>
-</tr>
-<tr>
-<td width="50%">
 
 ### 📊 Digital Marketing
 - Content strategy
@@ -158,13 +119,28 @@
 - Social media marketing
 - Brand awareness
 
-</td>
-<td width="50%">
-
 ### 🎨 Content Creation
 - Technical writing
 - Social media content
 
+</td>
+<td width="45%" valign="top">
+
+## 📊 GitHub Statistics
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=asbinthapa99&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+
+<br>
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asbinthapa99&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+
+<br>
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=asbinthapa99&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
+
+<br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=asbinthapa99&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF"/>
 
 </td>
 </tr>
@@ -194,42 +170,11 @@
 
 ---
 
-
-
 ## ⚡ Fun Facts About Me
 
-<table align="center">
-<tr>
-<td align="center" width="25%">
-
-### ⚽
-**Football Player**
-Love playing and watching football
-
-</td>
-<td align="center" width="25%">
-
-### 💻
-**Tech Explorer**
-Always learning new technologies
-
-</td>
-<td align="center" width="25%">
-
-### 💪
-**Fitness Enthusiast**
-Health and wellness advocate
-
-</td>
-<td align="center" width="25%">
-
-### 🎯
-**Goal Setter**
-Focused on personal growth
-
-</td>
-</tr>
-</table>
+| ⚽ Football Player | 💻 Tech Explorer | 💪 Fitness Enthusiast | 🎯 Goal Setter |
+|:---:|:---:|:---:|:---:|
+| Love playing and watching football | Always learning new technologies | Health and wellness advocate | Focused on personal growth |
 
 ---
 
@@ -242,13 +187,13 @@ class AsbinThapa:
         self.role = "Computing Systems Student"
         self.location = "London, UK"
         self.languages = ["Python", "JavaScript", "SQL", "HTML", "CSS"]
-        
+
     def current_focus(self):
         return [
             "Advancing cybersecurity skills",
             "Building web applications",
         ]
-    
+
     def life_motto(self):
         return "Continuous learning, constant growth 🚀"
 
@@ -265,6 +210,7 @@ print(me.life_motto())
 ### 💬 Let's Collaborate!
 
 I'm always interested in:
+
 - 💼 Freelance opportunities
 - 🔒 Cybersecurity discussions
 - 🌐 Web development projects
@@ -277,11 +223,9 @@ I'm always interested in:
 
 ---
 
-## 🌟 Support My Work 
+## 🌟 Support My Work
 
 <div align="center">
-
-If you find my projects helpful or inspiring:
 
 [![Star My Repos](https://img.shields.io/badge/⭐_Star_My_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/asbinthapa99?tab=repositories)
 [![Follow Me](https://img.shields.io/badge/👤_Follow_Me_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/asbinthapa99)
@@ -290,14 +234,11 @@ If you find my projects helpful or inspiring:
 
 ---
 
-play game 
+## 🎮 Play Snake Game
 
 <div align="center">
 
 [![Play Snake](https://img.shields.io/badge/🎮_Play_Snake_Game-00D9FF?style=for-the-badge)](https://asbinthapa99.github.io/Snake-game-/)
-
-
-Thank you for visiting my profile!
 
 ![Snake animation](https://github.com/asbinthapa99/gg/blob/output/github-contribution-grid-snake.svg)
 
@@ -307,23 +248,12 @@ Thank you for visiting my profile!
 
 <div align="center">
 
-###  Quote of the Day
+### 💬 Quote of the Day
 
-![Quote](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Finding+errors+in+life’s+script)
-
-
-
-
-
-
+![Quote](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Finding+errors+in+life's+script)
 
 ![Bottom Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
+⭐ **From [asbinthapa99](https://github.com/asbinthapa99)** — *Transforming ideas into digital reality*
+
 </div>
-
-<!-- Google Site Verification -->
-<meta name="google-site-verification" content="D6t6VD3Zt7wBQcaY" />
-
----
-
-⭐ **From [asbinthapa99](https://github.com/asbinthapa99)** - *Transforming ideas into digital reality*
