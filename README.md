@@ -10,7 +10,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=asbinthapa99&color=00D9FF&style=flat-square&label=Profile+Views)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/asbinthapa99?label=Followers&style=flat-square&color=00D9FF&labelColor=0D1117)](https://github.com/asbinthapa99)
+
 
 </div>
 
