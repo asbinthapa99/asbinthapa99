@@ -15,6 +15,7 @@
 </div>
 
 ---
+I'm Asbin Thapa Building CYphora tech-stack, a Cyber Security Expert with a background in Computer Science.
 
 ## 🧑‍💻 About Me
 
