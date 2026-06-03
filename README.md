@@ -73,7 +73,8 @@ class AsbinThapa:
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=asbinthapa99&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=asbinthapa99&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
 
 <br/>
 
