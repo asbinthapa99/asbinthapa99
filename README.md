@@ -17,21 +17,6 @@
 ---
 I'm Asbin Thapa Building CYphora tech-stack, a Cyber Security Expert with a background in Computer Science.
 
-## 🧑‍💻 About Me
-
-```python
-class AsbinThapa:
-    name       = "Asbin Thapa"
-    location   = "London, UK 🇬🇧"
-    origin     = "Nepal 🇳🇵"
-    education  = "Computing Systems (Cybersecurity specialization)"
-    languages  = ["Python", "JavaScript", "SQL", "HTML", "CSS"]
-    interests  = ["Cybersecurity", "Web Dev", "Digital Marketing", "Football ⚽"]
-    motto      = "Continuous learning, constant growth 🚀"
-```
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
